@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Banixx 
+- 👋 Hi, I’m Banixx 
 - 👀 I’m interested in tomatoes, nature in general.
 - 🌱 I’m currently learning three.js because i like the 3d on computer.
 - 💞️ I’m looking to collaborate on ... wait, i'm not ready.
